@@ -59,9 +59,7 @@
 ### 📊 Estatísticas
 <img 
       align="left" 
-      style="margin-top: 0; margin-right: 10px;" 
       alt="GitHub Stats" 
       height="200" 
-      width="400px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissarios&theme=tokyonight&custom_title=Tecnologias&langs_count=6" 
   />
