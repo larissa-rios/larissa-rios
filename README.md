@@ -57,11 +57,9 @@
 <br/>
 
 ### 📊 Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
- darcula: {
-    title_color: "BA5F17",
-    icon_color: "84628F",
-    text_color: "BEBEBE",
-    bg_color: "242424",
-  },
-
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissarios&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
