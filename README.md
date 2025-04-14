@@ -1,4 +1,4 @@
-#Larissa Rios
+# 👩🏻‍💻 Larissa Rios
 
 **`🧱Desenvolvedora em construção...`**
 ---
