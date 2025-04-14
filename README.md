@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Larissa Rios
 
-**`🧱Desenvolvedora em construção...`**
+**<font size="3">`🧱Desenvolvedora em construção...`</font>**
 ---
 ### 🤖 Linguagens e Tecnologias
 
