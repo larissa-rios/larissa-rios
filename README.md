@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Larissa Rios
 
-**`🧱 Em construção...`**
+**`🧱 Estudante de Ciência da Computação na Universidade Vila Velha (UVV)`**
 ---
 ### 🤖 Linguagens e Tecnologias
 
