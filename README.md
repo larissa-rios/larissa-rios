@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Larissa Rios
 
-**`🧱 Estudante de Ciência da Computação - 3º Período - Universidade Vila Velha (UVV)`**
+**`🧱 Estudante de Ciência da Computação - 3º Período - UVV`**
 ---
 ### 🤖 Linguagens e Tecnologias
 
