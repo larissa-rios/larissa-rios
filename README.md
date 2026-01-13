@@ -26,7 +26,12 @@
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img height="150em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-rios&layout=compact&langs_count=6" />
-</div>
+<p>
+  <img 
+    align="left"
+    alt="Top Languages"
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=larissa-rios&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+  />
+</p>
+
