@@ -1,7 +1,8 @@
 # 👩🏻‍💻 Olá, eu sou a Larissa 👋
 
 - 🎓 Estudante de **Ciência da Computação** na Universidade Vila Velha (UVV) - 3º período 
-- 📊 Foco em **Análise de Dados**, **Python**, **SQL** e aprendizado contínuo  
+- ⚙️ Interesse em Desenvolvimento Back-End
+- 📚 Em constante aprendizado e construção de projetos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissarios/)
 
